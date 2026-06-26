@@ -1,5 +1,7 @@
 🏠 Prédiction de Prix Immobiliers — Stacking Ensemble
 Prédiction du prix de vente de maisons aux USA à partir du dataset USA_Housing, avec feature engineering, suppression d'outliers sans data leakage, et optimisation d'un modèle Stacking Ensemble (Ridge + Random Forest + Gradient Boosting) via GridSearchCV.
+
+
 🏗️ Architecture du modèle
 
 Pipeline
